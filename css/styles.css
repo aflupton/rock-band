@@ -24,4 +24,5 @@ div.Pictures{
 div.Pictures img{
   width: 150%;
   height: auto;
+  padding: 10px;
 }
