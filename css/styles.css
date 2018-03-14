@@ -1,0 +1,27 @@
+div.sidebar{
+  font-weight:bold;
+  float:left;
+  background-color: black;
+  height: 100%;
+  border-radius: 10px 10px;
+  padding: 10px;
+  line-height: 40px;
+}
+
+
+body{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4e/Justice_in_concert.jpg);
+  width:100%;
+  height:auto;
+  color:white;
+}
+
+div.Pictures{
+  float: right;
+  padding-right: 190px;
+}
+
+div.Pictures img{
+  width: 150%;
+  height: auto;
+}
